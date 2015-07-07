@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 2e4f1047c5cb24efa8f3dfdd13a60d38
+timeCreated: 1436150085
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemybird_0
+    21300002: enemybird_1
+    21300004: enemybird_2
+    21300006: enemybird_3
+    21300008: enemybird_4
+    21300010: enemybird_5
+    21300012: enemybird_6
+    21300014: enemybird_7
+    21300016: enemybird_8
+    21300018: enemybird_9
+    21300020: enemybird_10
+    21300022: enemybird_11
+    21300024: enemybird_12
+    21300026: enemybird_13
+    21300028: enemybird_14
+    21300030: enemybird_15
+    21300032: enemybird_16
+    21300034: enemybird_17
+    21300036: enemybird_18
+    21300038: enemybird_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: enemybird_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 975
+        width: 186
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 975
+        width: 186
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_2
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 965
+        width: 183
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_3
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 970
+        width: 180
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_4
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 994
+        width: 177
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 726
+        width: 175
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 755
+        width: 165
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 755
+        width: 176
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_8
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 755
+        width: 178
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_9
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 755
+        width: 180
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 441
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 441
+        width: 186
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_12
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 441
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_13
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 441
+        width: 180
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_14
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 441
+        width: 178
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 127
+        width: 177
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 127
+        width: 165
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 98
+        width: 176
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_18
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 52
+        width: 178
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemybird_19
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 28
+        width: 180
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

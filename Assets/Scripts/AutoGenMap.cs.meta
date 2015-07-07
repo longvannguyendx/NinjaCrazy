@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 04a26ca2398d14fcdbd83207e31c0eb3
+timeCreated: 1435906274
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _ground: {fileID: 102474, guid: e98268872e9f24939a35f83b832b1e9d, type: 2}
+  - _ground2: {fileID: 145642, guid: 69de1aeb69452415eaabaa75fcf1e97e, type: 2}
+  - _background: {instanceID: 0}
+  - _coin1: {fileID: 169828, guid: 55953e1526e314498ad14101704663e0, type: 2}
+  - _coin2: {fileID: 194062, guid: 129d5b4ca7c0c4d7cbeb1b9824d4c3ca, type: 2}
+  - _coin3: {fileID: 173260, guid: 449400b6954d1491681a8925aba4090e, type: 2}
+  - _coin4: {fileID: 177116, guid: 892e701c6b12d4262883a1f5818db4a4, type: 2}
+  - _coin5: {fileID: 121916, guid: ac6fbcdd892074508acc9bb5dbd1263f, type: 2}
+  - _coin6: {fileID: 188706, guid: 9595df4bfb6734a0eb0232eaa543ac98, type: 2}
+  - _coin7: {fileID: 124018, guid: b964e79ff414f48fd8d358f57fcdcd1e, type: 2}
+  - _ball: {fileID: 182942, guid: f66217ae3b26f4216934d4618c7c376a, type: 2}
+  - _coinPlayer: {instanceID: 0}
+  - _scorePlayer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

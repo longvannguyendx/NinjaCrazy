@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 981e5a6fa7986463d9393b9f482004ca
+timeCreated: 1436153019
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _kunai: {fileID: 129094, guid: c3b3538714a204d3794dfb4273ed7aa9, type: 2}
+  - _attack: {fileID: 130384, guid: a6e1d7ee1c9904ff89e12eaf1d72d740, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

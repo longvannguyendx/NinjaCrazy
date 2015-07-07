@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: ba0f7c9ef887c4716b2a142c934e4313
+timeCreated: 1436151637
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: playerAttack_0
+    21300002: playerAttack_1
+    21300004: playerAttack_2
+    21300006: playerAttack_3
+    21300008: playerAttack_4
+    21300010: playerAttack_5
+    21300012: playerAttack_6
+    21300014: playerAttack_7
+    21300016: playerAttack_8
+    21300018: playerAttack_9
+    21300020: playerAttack_10
+    21300022: playerAttack_11
+    21300024: playerAttack_12
+    21300026: playerAttack_13
+    21300028: playerAttack_14
+    21300030: playerAttack_15
+    21300032: playerAttack_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: playerAttack_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 334
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerAttack_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 323
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerAttack_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 327
+        width: 108
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerAttack_3
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 330
+        width: 120
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerAttack_4
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 329
+        width: 139
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerAttack_5
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 329
+        width: 142
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerAttack_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 320
+        width: 81
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerAttack_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 188
+        width: 142
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerAttack_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 185
+        width: 143
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerAttack_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 187
+        width: 145
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerAttack_10
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 188
+        width: 146
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerAttack_11
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 183
+        width: 148
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerAttack_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 39
+        width: 148
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerAttack_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 39
+        width: 151
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerAttack_14
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 40
+        width: 150
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerAttack_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 40
+        width: 139
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: playerAttack_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
